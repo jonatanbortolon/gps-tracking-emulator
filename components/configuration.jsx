@@ -62,6 +62,7 @@ var MyComponent = ReactMeteor.createClass({
         <div className="form-group">
           <label for="port">Device Model</label>
           <select className="form-control" id="model" value={this.state.model} onChange={this.onChangeModel} >
+            <option value="GT06">GT06</option>
             <option value="TK103">TK103</option>
           </select>
         </div>

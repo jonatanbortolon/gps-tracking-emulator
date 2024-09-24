@@ -17,6 +17,7 @@ meteor
 And yep, that's all!
 
 ### Supported gps models
+- GT06
 - TK103
 
 ##### How to add more?

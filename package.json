@@ -1,0 +1,12 @@
+{
+  "name": "rastreie-emulator",
+  "version": "1.0.0",
+  "description": "Gps emulator",
+  "main": "index.js",
+  "scripts": {
+    "start": "./run.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

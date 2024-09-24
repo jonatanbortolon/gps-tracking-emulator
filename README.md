@@ -14,7 +14,6 @@ And yep, that's all!
 - GT06 - Not all yet
 - TK103
 
-#### Originally developed by
-[Freshworkstudio](https://github.com/freshworkstudio)
+#### Originally developed by [Freshworkstudio](https://github.com/freshworkstudio)
 
-Original project [here](https://github.com/freshworkstudio/gps-tracking-emulator)
+#### Original project [here](https://github.com/freshworkstudio/gps-tracking-emulator)
